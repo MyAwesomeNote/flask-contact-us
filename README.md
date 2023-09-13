@@ -1,4 +1,4 @@
-# The Example Minimal Flask App
+# The Example Of  Minimal Flask App
 
 The simplest possible Flask app.
 
