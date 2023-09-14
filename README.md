@@ -2,6 +2,12 @@
 
 The simplest possible Flask app.
 
+## Getting Started
+
+```bash
+flask run
+```
+
 ## Features
 
 - Hello to user or anon
